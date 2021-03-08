@@ -2,7 +2,6 @@
 title: Google Chrome Apps
 subtitle: A story about customer loyalty
 excerpt: "Off to the glue factory in over 1 year,\_Google Chrome Apps were hosted or packaged web applications that ran on the Google Chrome browser.\_It will be over 11 years old."
-date: '2021-01-03'
 thumb_image: images/3_thumb.jpg
 thumb_image_alt: A group of people working in a cafe
 image: images/3.jpg
