@@ -6,9 +6,10 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: Welcome to KilledByGoogle!
-    content: >
-      All Products ever Killed by Google. There's a lot of them! *By Shreyaan
-      Vashishtha*
+    content: |
+      All Products ever Killed by Google. There's a lot of them! 
+
+      *By Shreyaan Vashishtha*
     actions:
       - label: Learn More
         url: /features
