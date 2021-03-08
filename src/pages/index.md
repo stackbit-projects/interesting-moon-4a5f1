@@ -14,7 +14,7 @@ sections:
       - label: Learn More
         url: /features
         style: primary
-  - section_id: features
+  - section_id: feature
     type: section_features
     background: gray
     title: Features
