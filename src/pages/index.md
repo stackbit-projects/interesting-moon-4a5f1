@@ -20,6 +20,11 @@ sections:
     background: gray
     features: []
     type: section_features
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    background: gray
+    type: section_posts
   - section_id: reviews
     type: section_reviews
     background: white
