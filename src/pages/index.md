@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/TDx7fA_j_400x400-2.jpg
+    image: images/TDx7fA_j_400x400-2-removebg-preview.png
     image_alt: App preview
     title: Welcome to KilledByGoogle!
     content: |
