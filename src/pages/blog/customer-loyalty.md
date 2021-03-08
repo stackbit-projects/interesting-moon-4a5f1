@@ -1,5 +1,5 @@
 ---
-title: Customer Loyalty Programs That Stick
+title: Google Chrome Apps
 subtitle: A story about customer loyalty
 author: src/data/authors/jane-doe.yaml
 excerpt: >-
