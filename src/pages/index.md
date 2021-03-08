@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/hero.png
+    image: images/OnePlus_L_Red_RGB.png
     image_alt: App preview
     title: Welcome to KilledByGoogle!
     content: |
